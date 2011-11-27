@@ -1,0 +1,2 @@
+"Frequency Analyzer.jar" is a standalone executable. The 12 bars display the power measured at the following frequencies (Hz, left to right):
+261.63, 293.66, 329.63, 349.23, 392.00, 440.00, 493.88, 523.25, 587.33, 659.26, 659.26, 698.46, and 783.99.
